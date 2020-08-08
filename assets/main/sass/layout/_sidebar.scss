@@ -208,7 +208,7 @@
 				}
 
 				&:after {
-					background: transparentize(lighten(_palette(fg), 35), 0.25);
+					background: transparentize(lighten(_palette(bg), 22), 0.25);
 					border-radius: _size(border-radius);
 					content: '';
 					height: 3.5em;
